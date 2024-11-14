@@ -8,7 +8,7 @@ All together, this makes for a powerful platform.
 
 Another advantage of this architecture is that it allows a variety of data practitioners––including data analysts, data engineers, and machine learning engineers––to perform their roles in a unified, scalable way. 
 
-
+![](Datbricks_practitioners.png?raw=True)
 
 
 
