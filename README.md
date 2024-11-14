@@ -1,6 +1,5 @@
 # Databricks
 ## Databricks Architecture and Workspace UI
-[Watch the demo video] (1-1 Databricks Architecture and Services.mp4)
 
 The Databricks Lakehouse platform is a cloud-native implementation of the lakehouse model. Another way of saying this is that it's a data storage layer that resides on top of the data lake. This offers several advantages, including the performance and reliability of a data warehouse, combined with the flexibility, cost, efficiency and scale of data lake. 
 
