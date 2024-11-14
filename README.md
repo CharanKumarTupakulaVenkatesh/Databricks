@@ -1,4 +1,14 @@
 # Databricks
+## Databricks Architecture and Workspace UI
+The Databricks Lakehouse platform is a cloud-native implementation of the lakehouse model. Another way of saying this is that it's a data storage layer that resides on top of the data lake. This offers several advantages, including the performance and reliability of a data warehouse, combined with the flexibility, cost, efficiency and scale of data lake. 
+
+All together, this makes for a powerful platform.
+
+
+
+
+
+
 ## Data Ingestion with Delta Lake
 
 This module is designed for Data Engineers to deepen their understanding of Delta Lake to handle data ingestion, transformation, and management with ease. Using the latest features of Delta Lake, learners will explore real-world applications to enhance data workflows, optimize performance, and ensure data reliability.
