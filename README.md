@@ -4,7 +4,9 @@ The Databricks Lakehouse platform is a cloud-native implementation of the lakeho
 
 All together, this makes for a powerful platform.
 
+![](image.png?raw=True)
 
+Another advantage of this architecture is that it allows a variety of data practitioners––including data analysts, data engineers, and machine learning engineers––to perform their roles in a unified, scalable way. 
 
 
 
