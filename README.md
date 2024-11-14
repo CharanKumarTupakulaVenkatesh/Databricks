@@ -11,7 +11,23 @@ Another advantage of this architecture is that it allows a variety of data pract
 
 ![](Datbricks_practitioners.png?raw=True)
 
+# Databricks architecture
+**overview of Databricks architecture.**
 
+![](
+
+**The data plane** is where your data is processed. It resides in your own cloud account. The data plane hosts compute resources that we call clusters and connects to the data store backing the Databricks file system. It also provides connections to external data sources, either within the same cloud account or elsewhere on the Internet. Some examples of data sources include JDBC or SQL connections to databases or the data lake stored on AWS S3, Azure blob storage, or Google cloud storage. 
+
+**The control plane** consists of the back-end services that are managed and provided by Databricks, aligned with the cloud service in use by the customer (you!), which might be AWS, Azure, or GCP. Though the majority of your data doesn't live here, some elements, such as notebook commands and workspace configurations, are stored in the control plane.
+The control plane features several different services. Let's cover them one-by-one:
+
+  **Webapp**, which serves the Databricks UI for you
+     
+  **Workflow manager**, which provides job workflows and delta live tables or DLT to orchestrate tasks in a number
+     
+  **Cluster Manager**, which can help you configure and set up Spark Clusters jobs to schedule tasks 
+     
+  **Unity Catalog**, which provides data governance around access control, metadata management, data lineage, and data discovery.
 
 ## Data Ingestion with Delta Lake
 
