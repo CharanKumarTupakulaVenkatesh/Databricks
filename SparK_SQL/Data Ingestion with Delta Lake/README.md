@@ -12,3 +12,5 @@ Delta Lake to handle data ingestion, transformation, and management with ease. U
 **Leverage advanced Delta Lake features to create robust, reliable data pipelines.**
 
 **Use SQL UDFs for custom data transformations within Delta Lake.**
+
+![](Delta_Lake_Objects.png?raw=True)
