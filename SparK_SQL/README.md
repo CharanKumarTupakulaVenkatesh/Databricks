@@ -1,8 +1,4 @@
 
-This is an introductory course that serves as an appropriate entry point to learn Data Engineering with Databricks. 
-
-Below, we describe each of the four modules included in this course.
-
 ## Data Ingestion with Delta Lake
 
 This module is designed for Data Engineers to deepen their understanding of Delta Lake to handle data ingestion, transformation, and management with ease. Using the latest features of Delta Lake, learners will explore real-world applications to enhance data workflows, optimize performance, and ensure data reliability.
