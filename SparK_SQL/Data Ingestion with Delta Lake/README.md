@@ -17,7 +17,11 @@ Delta Lake to handle data ingestion, transformation, and management with ease. U
 **DataLake**
 
 ![](DataLake.PNG?raw=True)
+
+
 Delta Lake is an open-source project that enhances data management capabilities in Databricks, offering features like ACID transactions and compatibility with existing cloud storage solutions.
+
+![](DataLake_Desc.PNG?raw=True)
 
 
 
