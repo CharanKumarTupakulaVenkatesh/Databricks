@@ -13,6 +13,15 @@ Delta Lake to handle data ingestion, transformation, and management with ease. U
 
 **.Use SQL UDFs for custom data transformations within Delta Lake.**
 
+## Key Concepts
+**DataLake**
+
+![](DataLake.PNG?raw=True)
+Delta Lake is an open-source project that enhances data management capabilities in Databricks, offering features like ACID transactions and compatibility with existing cloud storage solutions.
+
+
+
+
 
 
 ![](Delta_Lake_Objects.png?raw=True)
